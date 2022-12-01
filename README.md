@@ -4,7 +4,5 @@
 - 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach murillowilmar1@gmail.com
 
-<!---
-murillowilmar1/murillowilmar1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Negro-y-Amarillo-Jugador-Oscuro-Supervivencia-Banner-de-You-Tube.png](https://i.postimg.cc/1XBRYCFk/Negro-y-Amarillo-Jugador-Oscuro-Supervivencia-Banner-de-You-Tube.png)](https://postimg.cc/QKBrFq0m)
+
